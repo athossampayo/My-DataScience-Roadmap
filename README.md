@@ -32,7 +32,6 @@ My roadmap to Data Science studies. Based on [SergeyShk's roadmap](https://githu
 #### Books
 | Title | Author | Status |
 | --- | :---: | :---: |
-| DSAlg | Auth | To Do |
 
 ## Machine Learning
 ### Fundamentals
@@ -72,7 +71,7 @@ My roadmap to Data Science studies. Based on [SergeyShk's roadmap](https://githu
 | Title | Author | Status |
 | --- | :---: | :---: |
 | Natural Language Processing in Action | Hobson Lane, Cole Howard, Hannes Hapke | To Do |
-| Text Analytics with Python: A Practitioner's Guide to Natural Language Processing | Dipanjan Sarkar | To Do |**Completed** |
+| Text Analytics with Python: A Practitioner's Guide to Natural Language Processing | Dipanjan Sarkar | To Do |
 ### Computer Vision
 ### Reinforcement Learning
 #### Books
@@ -110,7 +109,6 @@ My roadmap to Data Science studies. Based on [SergeyShk's roadmap](https://githu
 #### Books
 | Title | Author | Status |
 | --- | :---: | :---: |
-| Docker |  | To Do |
 
 ## Mathematics
 
@@ -137,12 +135,10 @@ My roadmap to Data Science studies. Based on [SergeyShk's roadmap](https://githu
 ### Tableau
 #### Courses
 | URL | Title | Status |
-| :---: | --- | :---: |
 
 ## Soft Skills
 #### Courses
 | URL | Title | Status |
-| :---: | --- | :---: |
 
 ## Version Control / Git
 #### Courses
