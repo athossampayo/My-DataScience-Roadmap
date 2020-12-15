@@ -16,7 +16,7 @@ My roadmap to Data Science studies. Based on [SergeyShk's roadmap](https://githu
 #### Books
 | Title | Author | Status |
 | --- | :---: | :---: |
-| Python. | Auth | To Do |
+| Data Science From Scratch: First Principles with Python - O'Reilly | Joel Grus | To Do |
 
 ### R
 #### Courses
@@ -49,6 +49,7 @@ My roadmap to Data Science studies. Based on [SergeyShk's roadmap](https://githu
 #### Books
 | Title | Author | Status |
 | --- | :---: | :---: |
+| Sistemas de Recomendação Baseada em Conteúdo para Sistemas de Bibliotecas Universitárias | Nelson Jacob Dressler | To Do |
 
 ### Deep Learning
 #### Courses
@@ -59,6 +60,7 @@ My roadmap to Data Science studies. Based on [SergeyShk's roadmap](https://githu
 #### Books
 | Title | Author | Status |
 | --- | :---: | :---: |
+| grokking Deep Lerning | Andrew W. Trask | To Do |
 
 ### Natural Language Processing
 #### Courses
@@ -73,6 +75,10 @@ My roadmap to Data Science studies. Based on [SergeyShk's roadmap](https://githu
 | Text Analytics with Python: A Practitioner's Guide to Natural Language Processing | Dipanjan Sarkar | To Do |**Completed** |
 ### Computer Vision
 ### Reinforcement Learning
+#### Books
+| Title | Author | Status|
+| --- | :---: | :---: |
+| Reinforcement Learning With OpenAI, tensorFlow and Keras Using Python | Abhishek Nandy & Manisha Biswas | To Do|
 
 ## Data Engineering
 ### SQL
@@ -117,7 +123,8 @@ My roadmap to Data Science studies. Based on [SergeyShk's roadmap](https://githu
 #### Books
 | Title | Author | Status |
 | --- | :---: | :---: |
-|  |  | To Do |
+| Estatística Prática para Cientistas de Dados - O'Reilly | Peter Bruce & Andrew Bruce | To Do |
+| Estatística: O que é, para que serve, como funciona | George Schlesinger | To Do |
 
 ### Calculus
 #### Courses
@@ -142,3 +149,9 @@ My roadmap to Data Science studies. Based on [SergeyShk's roadmap](https://githu
 | URL | Title | Status |
 | :---: | --- | :---: |
 | [Coursera](https://www.coursera.org/learn/git-for-developers-using-github) | Git for Developers Using Github | **Completed** |
+
+## Other / BI
+#### Books
+| Title | Author | Status |
+| :---: | --- | :---: |
+| Data Science para negócios | Foster Provost & Tom Fawcett | To Do |
