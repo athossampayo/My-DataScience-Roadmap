@@ -43,6 +43,7 @@ My roadmap to Data Science studies. Based on [SergeyShk's roadmap](https://githu
 | [DataCamp](https://www.datacamp.com/tracks/machine-learning-scientist-with-python) | Machine Learning Scientist with Python | To Do |
 | [OpenDataScience](https://mlcourse.ai/) | Open Machine Learning Course | To Do |
 | [Udacity](https://www.udacity.com/course/intro-to-data-science) | Intro to Data Science | To Do |
+| [Udacity](https://www.udacity.com/course/data-scientist-nanodegree--nd025) | Become a Data Scientist - Nanodegree | To Do |
 | [Udemy](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp) | Python for Data Science and Machine Learning Bootcamp | To Do |
 | [Udemy](https://www.udemy.com/data-science-and-machine-learning-with-python-hands-on) | Data Science, Deep Learning, & Machine Learning with Python | To Do |
 #### Books
@@ -60,6 +61,7 @@ My roadmap to Data Science studies. Based on [SergeyShk's roadmap](https://githu
 | Title | Author | Status |
 | --- | :---: | :---: |
 | grokking Deep Lerning | Andrew W. Trask | To Do |
+| Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow | Aurélien Géron | To Do |
 
 ### Natural Language Processing
 #### Courses
