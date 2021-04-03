@@ -69,6 +69,7 @@ My roadmap to Data Science studies. Based on [SergeyShk's roadmap](https://githu
 | :---: | --- | :---: |
 | [Coursera](https://www.coursera.org/learn/language-processing) | Natural Language Processing | To Do |
 | [Udemy](https://www.udemy.com/nlp-natural-language-processing-with-python) | NLP - Natural Language Processing with Python | To Do |
+| [USP](https://uspdigital.usp.br/apolo/apoObterAtividade?cod_oferecimentoatv=100557) | Curso de Extensão Universitária: Python para Processamento de Linguagem Natural | **Completed** |
 #### Books
 | Title | Author | Status |
 | --- | :---: | :---: |
