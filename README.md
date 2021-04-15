@@ -98,6 +98,7 @@ My roadmap to Data Science studies. Based on [SergeyShk's roadmap](https://githu
 #### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
+| [Data Science Academy](https://www.datascienceacademy.com.br/course?courseid=big-data-fundamentos)| Big Data Fundamentos 2.0 | **Completed** |
 | [DataCamp](https://www.datacamp.com/tracks/data-engineer-with-python) | Data Engineer with Python | To Do |
 | [Udacity](https://www.udacity.com/course/intro-to-hadoop-and-mapreduce) | Intro to Hadoop and MapReduce | To Do |
 | [Udemy](https://www.udemy.com/scala-and-spark-for-big-data-and-machine-learning) | Scala and Spark for Big Data and Machine Learning | To Do |
